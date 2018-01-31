@@ -2,5 +2,6 @@
 
 用來記錄學習程式過程中的筆記與心得，目前主要用來寫 [程式導師實驗計畫](https://github.com/Lidemy/mentor-program) 課程的筆記。
 
-過去曾在 Blogger 上寫過胡立老師的其他課程筆記 [Peggy's Learning Notes](http://peggyloveslearning.blogspot.com/)，但 Blogger 並非設計給程式語言專用的部落格系統，所以撰寫程式碼總是非常吃力。過去曾萌生轉換部落格的念頭，但是缺乏動力，剛好程式導師實驗計畫課程要求在 Github 上寫筆記以練習 Markdown 語法，所以新開了這個 repo 做為部落格。
+之前在 Blogger 上寫過胡立老師的其他課程筆記 [Peggy's Learning Notes](http://peggyloveslearning.blogspot.com/)，但 Blogger 並非設計給程式語言專用的部落格系統，所以撰寫程式碼總是非常吃力。過去曾萌生轉換部落格的念頭，但是缺乏動力，剛好程式導師實驗計畫課程要求在 Github 上寫筆記以練習 Markdown 語法，所以新開了這個 repo 做為部落格。
 
+寫筆記最大的受益者其實是自己，雖然總是要花費不少時間寫，但是寫完之後可以幫助自己複習，也能幫助有同樣問題的其他人。現在我也常常回頭看自己過去寫的筆記，感謝以前的自己寫下詳細的筆記，在遇到同樣的問題時不用再花時間解決已經解決過的問題。
